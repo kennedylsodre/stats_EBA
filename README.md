@@ -18,7 +18,8 @@ Ao longo do percurso, vamos explorar:
 * Ferramentas como quartis, percentis e a interpretação de gráficos boxplot para analisar a distribuição dos dados;
 * Exploração da simetria por meio do coeficiente de assimetria de Fisher (skew) e curtose. 
 
-Tais conhecimentos foram aplicados em um
+Tais conhecimentos foram aplicados em um dataset do ramo imobiliário dos Estados Unidos, para realizar a análise foi utilizada a linguagem python, veja aqui:  [AnaliseDataset](/src/Aula01-Estatistica-Descritiva/Aula01.ipynb) 
 
+Espero vocês para a continuação, até a proxima!
 
 
